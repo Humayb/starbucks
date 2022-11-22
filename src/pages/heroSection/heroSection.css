@@ -1,0 +1,85 @@
+.herosec {
+  display: flex;
+  justify-items: center;
+  margin: 120px 0 56px 0;
+}
+.herosec .left-herosec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.herosec .left-herosec ul li {
+  display: flex;
+  text-align: right;
+  justify-content: flex-end;
+  margin-bottom: 56px;
+}
+.herosec .left-herosec ul li h4 {
+  font-size: 20px;
+}
+.herosec .left-herosec ul li span {
+  display: flex;
+  align-items: center;
+  color: rgb(107, 107, 107);
+}
+.herosec .left-herosec ul li .icon {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: -2px 6px 10px rgba(121, 121, 121, 0.233);
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+.herosec .imag {
+  align-items: flex-start;
+}
+.herosec .right-herosec {
+  padding-top: 56px;
+  padding-right: 20px;
+}
+.herosec .right-herosec .right-herosec-items .txt {
+  margin-bottom: 56px;
+  padding-right: 4vw;
+}
+.herosec .right-herosec .right-herosec-items .txt .circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #ffebe6;
+  position: absolute;
+  right: 48px;
+  z-index: -1;
+}
+.herosec .right-herosec .right-herosec-items .txt h1 {
+  text-align: right;
+}
+.herosec .right-herosec .right-herosec-items .txt h1 span {
+  color: orange;
+}
+.herosec .right-herosec .right-herosec-items .btns .btn-video {
+  margin-right: 50px;
+  position: relative;
+}
+.herosec .right-herosec .right-herosec-items .btns .btn-video .bigcircle {
+  width: 35px;
+  height: 70px;
+  border-radius: 50px 0 0 50px;
+  background-color: orange;
+  position: absolute;
+  z-index: -1;
+  right: 45px;
+}
+.herosec .right-herosec .right-herosec-items .btns .btn-video .smalcircle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: -2px 6px 10px rgba(121, 121, 121, 0.233);
+  margin-top: 5px;
+  background-color: #fff;
+  color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=heroSection.css.map */

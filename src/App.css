@@ -1,0 +1,37 @@
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+
+@font-face{
+  font-family: YekanBakh;
+  font-weight: normal;
+  src:url(./fonts/Yekan\ Bakh\ Fa-En\ 05\ Medium.ttf)
+
+}
+
+@font-face {
+  font-family: YekanBakh;
+  font-weight: bold;
+  src: url(./fonts/Yekan\ Bakh\ Fa-En\ 06\ Bold.ttf);
+}
+
+@font-face {
+  font-family: YekanBakh;
+  font-weight: heavy;
+  src: url(./fonts/Yekan\ Bakh\ Fa-En\ 07\ Heavy.ttf);
+}
+body{
+  font-family: YekanBakh;
+}
+h1{
+  font-weight: heavy;
+  font-size: 64px;
+}
+
+h2{
+  font-weight: heavy;
+  font-size: 56px;
+}

@@ -1,0 +1,43 @@
+.box{
+    background-color: orange;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 56px 0;
+    // clip-path: polygon(0 25%, 100% 0  , 100% 100%,  0 85% );
+}
+
+.left{
+    margin-right: 56px;
+    
+    .txt{
+
+        h3{
+            margin-top: 10px;
+            margin:0;
+        }
+        h2{
+            color: orange;
+            margin-bottom: 56px;
+        }
+    }
+    figure{
+
+        img{
+            margin: 10px;
+            width: 80px;
+        }
+    }
+}
+
+.right{
+    position: relative;
+
+
+        img{
+            position: absolute;
+            height: 400px;
+            bottom: -20px;
+            right: 150px;
+        }
+
+}

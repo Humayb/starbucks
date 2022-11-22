@@ -1,0 +1,32 @@
+.box {
+  background-color: orange;
+  padding: 50px;
+  border-radius: 50px;
+  margin: 56px 0;
+}
+
+.left {
+  margin-right: 56px;
+}
+.left .txt h3 {
+  margin-top: 10px;
+  margin: 0;
+}
+.left .txt h2 {
+  color: orange;
+  margin-bottom: 56px;
+}
+.left figure img {
+  margin: 10px;
+  width: 80px;
+}
+
+.right {
+  position: relative;
+}
+.right img {
+  position: absolute;
+  height: 400px;
+  bottom: -20px;
+  right: 150px;
+}/*# sourceMappingURL=appSection.css.map */

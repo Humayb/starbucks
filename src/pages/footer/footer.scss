@@ -1,0 +1,33 @@
+.footer{
+    height: 40vh;
+    margin-top: 56px ;
+    padding: 56px;
+    border-radius: 20px;
+    background-color: #585858;
+
+    h3{
+        display: flex;
+        justify-content: center;
+    }
+
+    .icons{
+        justify-content: center;
+        margin: 0 32px;
+        a{
+            font-size: 24px;
+            color: rgb(255, 177, 31);
+
+            
+            &:hover{
+
+                transition: .5s ease-in-out;
+            }
+        }
+    }
+
+    h4{
+        display: flex;
+        justify-content: center;
+        margin-top: 24px;
+    }
+}

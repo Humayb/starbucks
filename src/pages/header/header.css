@@ -1,0 +1,28 @@
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #f4f4f4;
+  font-size: 14px;
+}
+
+.navbar-right .logo {
+  margin-left: 6px;
+}
+
+.navbar {
+  border-radius: 0 0 15px 15px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.collapse {
+  color: #f4f4f4;
+}
+
+.btn {
+  font-weight: bold;
+  font-size: 14px;
+}/*# sourceMappingURL=header.css.map */
